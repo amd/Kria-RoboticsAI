@@ -1,0 +1,8 @@
+{
+    "lib": "libvart-dpu-runner.so",
+    "filename": "kr260_cifar10_tf2_resnet18.xmodel",
+    "kernel": [
+        "subgraph_quant_add"
+    ],
+    "target": "DPUCZDX8G_ISA1_B4096"
+}
